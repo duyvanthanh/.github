@@ -1,5 +1,5 @@
 # duyvanthanh/.github
 
-Public org files. `assets/email/` holds images used in duyvanthanh_ emails.
+`assets/email/` holds images used only for displaying duyvanthanh_ emails.
 
-The duyvanthanh_ name and logo are not licensed for reuse. Non-commercial project.
+All rights reserved. The duyvanthanh_ name, logo and these images are not licensed for any reuse. Non-commercial project.
